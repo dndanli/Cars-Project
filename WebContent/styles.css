@@ -8,7 +8,7 @@
 	.trans {width:50px; text-align:left}
 	.seats {width:50px; text-align:center}
 	.mpg   {width:50px; text-align:right}
-	.footer {font-size:x-small}
+	.footer {font-size:small}
 	label {color:blue; font-size:small}
 	h2 {color:blue}
 	input[type=submit] {background-color:blue; color:white; padding:5px 10px; margin:4px 2px}
