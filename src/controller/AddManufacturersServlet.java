@@ -19,6 +19,8 @@ import model.Manufacturer;
 
 /**
  * Servlet implementation class AddManufacturers
+ * This servlet is used to add the manufacturers to the database
+ * It needs the name of a manufacturer and the country where it's from.
  */
 @WebServlet("/addManufacturersServlet")
 public class AddManufacturersServlet extends HttpServlet {

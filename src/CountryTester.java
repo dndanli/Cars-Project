@@ -16,8 +16,11 @@ import model.Country;
 public class CountryTester {
 
 	public static void main(String[] args) {
-//		CountryHelper ch = new CountryHelper();
-//		Country country = new Country("Spain");
-//		ch.save(country);
+		CountryHelper ch = new CountryHelper();
+		Country country = new Country("Spain");
+		ch.save(country);
+		
+		Country singapore = new Country("Singapore");
+		ch.save(singapore);
 	}
 }

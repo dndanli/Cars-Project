@@ -16,6 +16,7 @@ import model.Country;
 
 /**
  * Servlet implementation class AddCountriesServlet
+ * This servlet is used to add the countries to the database.
  */
 @WebServlet("/addCountryServlet")
 public class AddCountryServlet extends HttpServlet {

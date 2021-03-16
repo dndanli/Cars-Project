@@ -15,7 +15,7 @@ import model.Vehicle;
 
 /**
  * The purpose of this class is to test persisting to the Cars database table "manufacturers" 
- *
+ * Each manufacturer needs a name and the country where its from.
  */
 public class ManufacturerTester {
 
